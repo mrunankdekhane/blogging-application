@@ -1,0 +1,3 @@
+Developed a full-stack blogging application using Node.js, Express.js, MongoDB, and EJS with complete CRUD functionality. Implemented user authentication, RESTful routing, and dynamic server-side rendering with EJS.Built a secure, fully functional blogging platform with complete CRUD operations, authenticated user access, and dynamic server-side rendering, enabling users to create, edit, manage, and publish blog posts efficiently.
+
+Tech used :- Node.js, Express.js, MongoDB (Mongoose), EJS templating, RESTful APIs, user authentication (sessions/cookies),Bootstrap, HTML, JavaScript.
